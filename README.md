@@ -4,13 +4,9 @@
 
 ## Languages and Tools
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=Git&logoColor=f76300)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-0b3491?style=for-the-badge&logo=MySQL&logoColor=dbdbdb)
-
 ![Postman](https://img.shields.io/badge/-Postman-2e2e2e?style=for-the-badge&logo=Postman&logoColor=ff9100)
-
 ![Jira](https://img.shields.io/badge/-Jira-dcdcdc?style=for-the-badge&logo=Jira&logoColor=1f3059)
-
 ![Confluence](https://img.shields.io/badge/-Confluence-03143f?style=for-the-badge&logo=Confluence&logoColor=f0f4e4)
 
 Resume HH.ru
