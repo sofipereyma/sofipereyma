@@ -12,5 +12,11 @@
 ## Resume on HH.RU
 [![HH.RU](https://img.shields.io/badge/-HH.RU-d73030?style=for-the-badge&logo=HH.RU&logoColor=ffffff)](https://samara.hh.ru/resume/fb4c4167ff0d6502370039ed1f596f37687142)
 
+## Certificates
+
+Certificate of completion of the course "Software testing from scratch": https://drive.google.com/file/d/10sUOX9W_SlRxHGkXllsp2PSg_zcF6Vq5/view?usp=sharing
+
+Certificate of completion of the course "SQL Intermediate": https://drive.google.com/file/d/1rlDaV0gifeagIJZGPmDXNtQtUGE6jOeQ/view?usp=sharing
+
 ## Portfolio
 Test cases: https://docs.google.com/spreadsheets/d/1jsJfPhKe2EtnOi_Wny6Ps_hrKYoKfaGY/edit?usp=sharing&ouid=104434232992354805410&rtpof=true&sd=true
