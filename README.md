@@ -9,8 +9,8 @@
 ![Jira](https://img.shields.io/badge/-Jira-dcdcdc?style=for-the-badge&logo=Jira&logoColor=1f3059)
 ![Confluence](https://img.shields.io/badge/-Confluence-03143f?style=for-the-badge&logo=Confluence&logoColor=f0f4e4)
 
-## Resume on HH.RU
-[![HH.RU](https://img.shields.io/badge/-HH.RU-d73030?style=for-the-badge&logo=HH.RU&logoColor=ffffff)](https://samara.hh.ru/resume/fb4c4167ff0d6502370039ed1f596f37687142)
+## Resume on hh.ru
+[![hh.ru](https://img.shields.io/badge/-hh.ru-d73030?style=for-the-badge&logo=hh.ru&logoColor=ffffff)](https://samara.hh.ru/resume/fb4c4167ff0d6502370039ed1f596f37687142)
 
 ## Certificates
 
