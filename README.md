@@ -11,3 +11,6 @@
 
 ## Resume on HH.RU
 [![HH.RU](https://img.shields.io/badge/-HH.RU-d73030?style=for-the-badge&logo=HH.RU&logoColor=ffffff)](https://samara.hh.ru/resume/fb4c4167ff0d6502370039ed1f596f37687142)
+
+## Portfolio
+[![Test cases](https://img.shields.io/badge/-Test cases-34912a?style=for-the-badge&logo=Test cases&logoColor=ffffff)](https://docs.google.com/spreadsheets/d/1jsJfPhKe2EtnOi_Wny6Ps_hrKYoKfaGY/edit?usp=sharing&ouid=104434232992354805410&rtpof=true&sd=true)
