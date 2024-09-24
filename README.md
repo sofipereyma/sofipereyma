@@ -10,4 +10,4 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-03143f?style=for-the-badge&logo=Confluence&logoColor=f0f4e4)
 
 ## Resume on HH.RU
-[![Resume](https://img.shields.io/badge/-Resume-d73030?style=for-the-badge&logo=HH.ru&logoColor=ffffff)(https://samara.hh.ru/resume/fb4c4167ff0d6502370039ed1f596f37687142)]
+[![HH.RU](https://img.shields.io/badge/-HH.RU-d73030?style=for-the-badge&logo=HH.RU&logoColor=ffffff)](https://samara.hh.ru/resume/fb4c4167ff0d6502370039ed1f596f37687142)
