@@ -20,4 +20,5 @@ Certificate of completion of the course "SQL Intermediate": https://drive.google
 
 ## Portfolio
 Test cases: https://docs.google.com/spreadsheets/d/1jsJfPhKe2EtnOi_Wny6Ps_hrKYoKfaGY/edit?usp=sharing&ouid=104434232992354805410&rtpof=true&sd=true
+
 SQL: https://docs.google.com/document/d/1qyoQm2H60WdUvdXbluXhCoxgHmjtfzFZ_wh-bE6V2HU/edit?usp=sharing
