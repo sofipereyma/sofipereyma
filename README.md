@@ -1,6 +1,6 @@
 ![Header](https://github.com/sofipereyma/Portfolio/blob/main/Accets/%D0%9D%D0%BE%D0%B2%D1%8B33%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.jpg)
 
-## I,m a begginner QA Engineer 
+## Hi! I'm a QA Engineer Manual (Junior)
 
 ## Tools
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=Git&logoColor=f76300)
@@ -20,3 +20,4 @@ Certificate of completion of the course "SQL Intermediate": https://drive.google
 
 ## Portfolio
 Test cases: https://docs.google.com/spreadsheets/d/1jsJfPhKe2EtnOi_Wny6Ps_hrKYoKfaGY/edit?usp=sharing&ouid=104434232992354805410&rtpof=true&sd=true
+SQL: https://docs.google.com/document/d/1qyoQm2H60WdUvdXbluXhCoxgHmjtfzFZ_wh-bE6V2HU/edit?usp=sharing
